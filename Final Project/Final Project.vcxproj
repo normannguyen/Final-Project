@@ -115,13 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\FinalProject\FinalProject\Main.cpp" />
-    <ClCompile Include="..\..\FinalProject\FinalProject\Person.cpp" />
-    <ClCompile Include="..\..\FinalProject\FinalProject\Story.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Story.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\FinalProject\FinalProject\Person.h" />
-    <ClInclude Include="..\..\FinalProject\FinalProject\Story.h" />
+    <ClInclude Include="Story.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,21 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\FinalProject\FinalProject\Person.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\FinalProject\FinalProject\Story.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\FinalProject\FinalProject\Main.cpp">
+    <ClCompile Include="Story.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\FinalProject\FinalProject\Person.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\FinalProject\FinalProject\Story.h">
+    <ClInclude Include="Story.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
