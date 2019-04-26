@@ -13,3 +13,5 @@ int GetUserNumber(std::string type);
 std::string GetUserName(std::string type);
 //Line Format
 void LineFormat();
+
+void StoryTime();
